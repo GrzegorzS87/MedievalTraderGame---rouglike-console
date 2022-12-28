@@ -5,54 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37ce7ed-fa7d-49d0-9c1a-c98751e3a42b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Medieval_Trader___Game.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MTGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/EnemiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/ItemGeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/LocationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/MeleeRangedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/MercenaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/diceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Expeditions/Expedition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/MyFonts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/NoArrowScrollBarUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/TextInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/UiInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/MeleWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/RangedWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/WeaponNamePrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Enterprise/Enterprise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Enterprise/LocalEnterprise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Vendor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/MTGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/MaxValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Bandit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Encounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Enemies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/EpicMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Mercenary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/MercenaryName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/MercenaryNickname.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/MercenaryTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/Player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MedievalTraderGame/STAGE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/EnemiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/balance_and_testing/EnemiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/ItemGeneratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/balance_and_testing/ItemGeneratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/LocationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/balance_and_testing/LocationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/MeleeRangedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/balance_and_testing/MeleeRangedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/MercenaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/balance_and_testing/MercenaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/BalancingAndTesting/diceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/balance_and_testing/diceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Expeditions/Expedition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/expeditions/Expedition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/console_interface/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/MyFonts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/console_interface/MyFonts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/NoArrowScrollBarUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/console_interface/NoArrowScrollBarUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/TextInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/console_interface/TextInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/UiInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/console_interface/UiInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Interface/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/console_interface/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/items/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/items/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/items/weapon/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/MeleWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/items/weapon/MeleWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/RangedWeapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/items/weapon/RangedWeapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Items/Weapon/WeaponNamePrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/items/weapon/WeaponNamePrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Enterprise/Enterprise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/locations/enterprise/Enterprise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Enterprise/LocalEnterprise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/locations/enterprise/LocalEnterprise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/locations/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Locations/Vendor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/locations/Vendor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/MTGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/MTGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/MaxValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/MaxValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/enemies/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Bandit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/enemies/Bandit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Encounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/enemies/Encounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/Enemies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/enemies/Enemies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Enemies/EpicMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/enemies/EpicMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/Mercenary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/Mercenary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/MercenaryName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/MercenaryName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/MercenaryNickname.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/MercenaryNickname.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Mercenaries/MercenaryTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/mercenaries/MercenaryTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/Player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedievalTraderGame/STAGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medieval_trader_game/STAGE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -109,7 +101,7 @@
       <module name="MTGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MedievalTraderGame.BalancingAndTesting.*" />
+          <option name="PATTERN" value="medieval_trader_game.balance_and_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="EnemiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedievalTraderGame.BalancingAndTesting.EnemiesTest" />
+      <option name="MAIN_CLASS_NAME" value="medieval_trader_game.balance_and_testing.EnemiesTest" />
       <module name="MTGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MedievalTraderGame.BalancingAndTesting.*" />
+          <option name="PATTERN" value="medieval_trader_game.balance_and_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedievalTraderGame.Main" />
+      <option name="MAIN_CLASS_NAME" value="medieval_trader_game.Main" />
       <module name="MTGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MedievalTraderGame.Expeditions.*" />
+          <option name="PATTERN" value="medieval_trader_game.expeditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +136,11 @@
       </method>
     </configuration>
     <configuration name="diceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedievalTraderGame.BalancingAndTesting.diceTest" />
+      <option name="MAIN_CLASS_NAME" value="medieval_trader_game.balance_and_testing.diceTest" />
       <module name="MTGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MedievalTraderGame.BalancingAndTesting.*" />
+          <option name="PATTERN" value="medieval_trader_game.balance_and_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +152,12 @@
       <module name="MTGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MedievalTraderGame.BalancingAndTesting.*" />
+          <option name="PATTERN" value="medieval_trader_game.balance_and_testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="MedievalLordOfWar.TESTS" />
-      <option name="MAIN_CLASS_NAME" value="MedievalTraderGame.BalancingAndTesting.EnemiesTest" />
+      <option name="MAIN_CLASS_NAME" value="medieval_trader_game.balance_and_testing.EnemiesTest" />
       <option name="METHOD_NAME" value="enemyGenerationTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
